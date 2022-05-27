@@ -28,7 +28,7 @@ export function FeedbackContentStep({
       comment,
     });
 
-    onFeedbackSent()
+    onFeedbackSent();
   }
 
   return (
