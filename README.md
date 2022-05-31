@@ -6,3 +6,4 @@ O deploy da aplicação foi feito com duas plataformas: O frontend está hospeda
 Para visualizar a aplicação em funcionamento, você pode acessá-la através deste [link](https://nlw-return-impulse-nu-ruddy.vercel.app/)
 
 
+![alt text for screen readers](feedback.png)
